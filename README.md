@@ -14,6 +14,10 @@ This project is made so all the elements are displayed correctly on popular scre
 
 Check out (https://drive.google.com/file/d/1WGdLlWbgdPa2_kJoJJYywKVIFhnwTYia/view?usp=sharing) where I describe my project and some challenges that I faced while building it.
 
+## Project GitHub
+
+Check out (git@github.com:ywb0145-arch/se_project_spots.git) where the project and code are visible.
+
 **Figma**
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
