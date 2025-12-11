@@ -8,7 +8,11 @@
 
 **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is made so all the elements are displayed correctly on popular screen sizes.
+
+## Project Pitch Video
+
+Check out (https://drive.google.com/file/d/1WGdLlWbgdPa2_kJoJJYywKVIFhnwTYia/view?usp=sharing) where I describe my project and some challenges that I faced while building it.
 
 **Figma**
 
