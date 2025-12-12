@@ -114,4 +114,8 @@
     max-width: 288px;
     width: 100%;
   }
+
+  .profile__edit-button {
+    margin: 20px auto 0;
+  }
 }

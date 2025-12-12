@@ -16,7 +16,7 @@ Check out (https://drive.google.com/file/d/1WGdLlWbgdPa2_kJoJJYywKVIFhnwTYia/vie
 
 ## Project GitHub
 
-Check out (git@github.com:ywb0145-arch/se_project_spots.git) where the project and code are visible.
+Check out (https://ywb0145-arch.github.io/se_project_spots/) where the project is visible.
 
 **Figma**
 
